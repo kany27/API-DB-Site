@@ -1,12 +1,17 @@
 [  
   {
       "label": "Instagram",
-      "icon": "",
+      "icon": "https://github.com/kany27/DB-Site/blob/master/assets/icons/instagram.svg",
       "link": "https://www.instagram.com/kanydiann"
   },
   {
     "label": "Linkedlin",
-    "icon": "",
+    "icon": "https://github.com/kany27/DB-Site/blob/master/assets/icons/linkefdlin.png",
+    "link": "https://www.instagram.com/kanydiann"
+  },
+  {
+    "label": "Linkedlin",
+    "icon": "https://github.com/kany27/DB-Site/blob/master/assets/icons/github_white.png",
     "link": "https://www.instagram.com/kanydiann"
   }
 ]
